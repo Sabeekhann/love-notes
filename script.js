@@ -92,7 +92,7 @@ const loveNotes = [
     "Tum wo sitare ho jo har raat mere dil ko chamkate hain ⭐",
     "In your love, I have found my forever, my always 💍",
     "Meri har dua tumse hai, aur tum mere liye ek khaas dua ho 🌹",
-    "Tere saath zindagi ka safar khoobsurat aur mehfooz hai 🛤️"
+    "Tere saath zindagi ka safar khoobsurat aur mehfooz hai 🛤️",
     "Zahra, you are the sunshine of my life 🌞",
     "Every moment with you feels like a beautiful dream 💫",
     "You are my forever and always, Zahra ❤️",
@@ -147,7 +147,7 @@ const loveNotes = [
     "With you, I’ve found my forever love 💞",
     "Tum mere dil ki awaaz ho, mere har armaan ki tasveer 💌",
     "Being with you is the most beautiful poetry I know 🌹",
-    "You’re my heart’s favorite story, Zahra 📖"
+    "You’re my heart’s favorite story, Zahra 📖",
     "Zahra, you are the sunshine of my life 🌞",
     "Every moment with you feels like a beautiful dream 💫",
     "You are my forever and always, Zahra ❤️",
@@ -228,7 +228,7 @@ const loveNotes = [
     "Your love is my greatest joy and my deepest peace 🌌",
     "In you, I have found a love worth waiting a lifetime for ⏳",
     "You are my heart’s softest melody 🎶",
-    "With you, every moment is filled with warmth and love ☀️"
+    "With you, every moment is filled with warmth and love ☀️",
     "Zahra, you are the sunshine of my life 🌞",
     "Every moment with you feels like a beautiful dream 💫",
     "You are my forever and always, Zahra ❤️",
